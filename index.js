@@ -20,4 +20,4 @@ function updateEmployeeWithKeyAndValue(employee, key, value){
  function destructivelyDeleteFromEmployeeByKey(employee, key){
     delete employee.name
     return employee
- }
+ } 
